@@ -46,7 +46,10 @@ The following markdown record is a hypothetical example of a 1:1 record that has
 ```markdown
 # Expectations
 
-I will achieve world peace by the end of 2022 by working with the UN and the Mr/Miss Universe Contestants.  Success will be measured by the lack of global conflict and the holding of hands and singing of songs across the world.  We will check in on your progress monthly.
+I will achieve world peace by the end of 2022 by working with the UN
+and the Mr/Miss Universe Contestants.  Success will be measured by
+the lack of global conflict and the holding of hands and singing of
+songs across the world.  We will check in on your progress monthly.
 
 # Career Development Goals
 
