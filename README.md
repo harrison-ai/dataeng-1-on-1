@@ -47,7 +47,7 @@ The following markdown record is a hypothetical example of a 1:1 record that has
 # Expectations
 
 I will achieve world peace by the end of 2022 by working with the UN
-and the Mr/Miss Universe Contestants.  Success will be measured by
+and various peageant contestants.  Success will be measured by
 the lack of global conflict and the holding of hands and singing of
 songs across the world.  We will check in on your progress monthly.
 
@@ -71,7 +71,8 @@ songs across the world.  We will check in on your progress monthly.
 ## Check in
 
 * Achieved credit in Negotiation Skills 101 
-* Still awaiting contact from Miss Universe organisation for participation.
+* Still awaiting contact from Mr Universe organisation for participation,
+Arnold S. (from California) is running point on this.
 
 ## Progress
 
