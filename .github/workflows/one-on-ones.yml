@@ -58,7 +58,7 @@ jobs:
           destination_branch: "main" # If blank, default: main
           pr_title: "${{ env.WEEK_OF }}"
           pr_body: ":crown: *An automated 1:1 PR*" # Full markdown support, requires pr_title to be set
-          pr_assignee: "${{ env.MYMANAGER_GH}}, ${{ env.MY_GH }}" # Comma-separated list (no spaces)
+          pr_assignee: "${{ env.MY_GH }},${{ env.MYMANAGER_GH}}" # Comma-separated list (no spaces)
           pr_label: "automerge" # Comma-separated list (no spaces)
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
