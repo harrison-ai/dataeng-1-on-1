@@ -21,9 +21,9 @@ jobs:
             }
       # Checkout the repo
       - name: Checkout workspace
-        uses: actions/checkout@test
+        uses: actions/checkout@main
         with:
-          ref: main
+          ref: test
 
       # Get date and store as environment variables
       - name: Get and store variables
