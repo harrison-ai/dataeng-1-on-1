@@ -61,6 +61,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Clean up stale branches
-        uses: "jessfraz/branch-cleanup-action@main"
+        uses: "jessfraz/branch-cleanup-action@master"
         with:
           secrets: ${{ secrets.GITHUB_TOKEN }}
